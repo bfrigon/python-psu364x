@@ -1,0 +1,12 @@
+.directory
+.kate-swp
+
+
+# Compiled python modules.
+*.py[cod]
+
+# Setuptools distribution folder.
+/dist/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
